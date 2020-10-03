@@ -1,0 +1,18 @@
+{
+  "extends": ["prettier"],
+  "env": {
+    "node": true,
+    "es6": true,
+    "jest": true
+  },
+  "plugins": ["prettier"],
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
+  "rules": {
+    "quotes": ["error", "single"],
+    "no-unused-vars": 2,
+    "no-undef": 2
+  }
+}

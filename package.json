@@ -1,0 +1,30 @@
+{
+  "name": "sneaker-city-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abayo-luc/sneaker-city-api.git",
+  "author": "Luc <luc.bayo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./dist",
+    "dev": "NODE_ENV=development nodemon --exec babel-node ./src",
+    "clean:build": "rm -rf dist && mkdir dist",
+    "build": "npm run clean:build && babel -d ./dist ./src",
+    "sequelize": "./node_modules/.bin/sequelize $*"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint": "^7.10.0"
+  }
+}
