@@ -1,0 +1,1805 @@
+{
+    "count": 31278,
+    "results": [
+        {
+            "id": "5f3a5a82-b433-4e77-b238-727884d46a75",
+            "brand": "Jordan",
+            "colorway": "White/Black-Carmine",
+            "gender": "toddler",
+            "model": "Carmine 2021 (TD)",
+            "releaseDate": "2021-02-20 23:59:59",
+            "retailPrice": 60,
+            "shoe": "Jordan 6 Retro",
+            "styleId": null,
+            "title": "Jordan 6 Retro Carmine 2021 (TD)",
+            "year": 2021,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "8d9fdff4-3d82-4c19-8b5b-cbc1b09c8a07",
+            "brand": "Jordan",
+            "colorway": "White/Black-Carmine",
+            "gender": "preschool",
+            "model": "Carmine 2021 (PS)",
+            "releaseDate": "2021-02-20 23:59:59",
+            "retailPrice": 80,
+            "shoe": "Jordan 6 Retro",
+            "styleId": null,
+            "title": "Jordan 6 Retro Carmine 2021 (PS)",
+            "year": 2021,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "b2feb769-ee47-4201-af23-e0fc6406c7b8",
+            "brand": "Jordan",
+            "colorway": "White/Black-Carmine",
+            "gender": "child",
+            "model": "Carmine 2021 (GS)",
+            "releaseDate": "2021-02-20 23:59:59",
+            "retailPrice": 150,
+            "shoe": "Jordan 6 Retro",
+            "styleId": null,
+            "title": "Jordan 6 Retro Carmine 2021 (GS)",
+            "year": 2021,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "d0e5b7e4-9503-4128-9f98-48c3ce64147b",
+            "brand": "Jordan",
+            "colorway": "White/Black-Carmine",
+            "gender": "men",
+            "model": "Carmine (2021)",
+            "releaseDate": "2021-02-20 23:59:59",
+            "retailPrice": 200,
+            "shoe": "Jordan 6 Retro",
+            "styleId": "CT8529-106",
+            "title": "Jordan 6 Retro Carmine (2021)",
+            "year": 2021,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "87e9ea14-251f-42cb-b5a0-a190e8f15098",
+            "brand": "Vans",
+            "colorway": "Multi-Color",
+            "gender": "men",
+            "model": "Half Big Checker",
+            "releaseDate": "2020-12-31 23:59:59",
+            "retailPrice": 65,
+            "shoe": "Vans Comfycush Slip-On",
+            "styleId": null,
+            "title": "Vans Comfycush Slip-On Half Big Checker",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Vans-Comfycush-Slip-On-Half-Big-Checker.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1578035967",
+                "smallImageUrl": "https://stockx.imgix.net/Vans-Comfycush-Slip-On-Half-Big-Checker.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1578035967",
+                "thumbUrl": "https://stockx.imgix.net/Vans-Comfycush-Slip-On-Half-Big-Checker.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1578035967"
+            }
+        },
+        {
+            "id": "1b23f055-d0a1-42cd-8ad7-dbc0664d9d7f",
+            "brand": "Jordan",
+            "colorway": "Varsity Red/Black",
+            "gender": "child",
+            "model": "Reverse Flu Game (GS)",
+            "releaseDate": "2020-12-26 23:59:59",
+            "retailPrice": 140,
+            "shoe": "Jordan 12 Retro",
+            "styleId": null,
+            "title": "Jordan 12 Retro Reverse Flu Game (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "2be6bea7-77a2-414c-b213-ac4d0585f278",
+            "brand": "Jordan",
+            "colorway": "Varsity Red/Black",
+            "gender": "men",
+            "model": "Reverse Flu Game",
+            "releaseDate": "2020-12-26 23:59:59",
+            "retailPrice": 190,
+            "shoe": "Jordan 12 Retro",
+            "styleId": "CT8013-602",
+            "title": "Jordan 12 Retro Reverse Flu Game",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-12-Retro-Reverse-Flu-Game.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961208",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-12-Retro-Reverse-Flu-Game.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961208",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-12-Retro-Reverse-Flu-Game.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961208"
+            }
+        },
+        {
+            "id": "ebc16954-21e1-4577-a507-b2a389de1c32",
+            "brand": "Jordan",
+            "colorway": "Varsity Red/Black",
+            "gender": "toddler",
+            "model": "Reverse Flu Game (TD)",
+            "releaseDate": "2020-12-26 23:59:59",
+            "retailPrice": 60,
+            "shoe": "Jordan 12 Retro",
+            "styleId": null,
+            "title": "Jordan 12 Retro Reverse Flu Game (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "fb9694c5-4347-4f42-8200-3c97a5194bd4",
+            "brand": "Jordan",
+            "colorway": "Varsity Red/Black",
+            "gender": "preschool",
+            "model": "Reverse Flu Game (PS)",
+            "releaseDate": "2020-12-26 23:59:59",
+            "retailPrice": 80,
+            "shoe": "Jordan 12 Retro",
+            "styleId": null,
+            "title": "Jordan 12 Retro Reverse Flu Game (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "548d20e7-94b1-42bc-811a-57cb753a91c6",
+            "brand": "Jordan",
+            "colorway": "Black/White-Gym Red-Glacier Ice",
+            "gender": "men",
+            "model": "Morpho",
+            "releaseDate": "2020-12-24 23:59:59",
+            "retailPrice": 180,
+            "shoe": "Jordan XXXV",
+            "styleId": null,
+            "title": "Jordan XXXV Morpho",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "0e5acb1c-491c-4f69-b318-f9da4143ab2b",
+            "brand": "Jordan",
+            "colorway": "Black/Black-White-Hyper Royal",
+            "gender": "men",
+            "model": "Black Hyper Royal",
+            "releaseDate": "2020-12-19 23:59:59",
+            "retailPrice": 190,
+            "shoe": "Jordan 13 Retro",
+            "styleId": "414571-040",
+            "title": "Jordan 13 Retro Black Hyper Royal",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-13-Retro-Black-Hyper-Royal.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961240",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-13-Retro-Black-Hyper-Royal.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961240",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-13-Retro-Black-Hyper-Royal.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961240"
+            }
+        },
+        {
+            "id": "4c55f157-9258-4e6f-8cb9-3e25e0dbe7b6",
+            "brand": "Jordan",
+            "colorway": "Black/Black-White-Hyper Royal",
+            "gender": "preschool",
+            "model": "Black Hyper Royal (PS)",
+            "releaseDate": "2020-12-19 23:59:59",
+            "retailPrice": 80,
+            "shoe": "Jordan 13 Retro",
+            "styleId": "414575-040",
+            "title": "Jordan 13 Retro Black Hyper Royal (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "85e2a98e-ae34-4867-a00b-471070bdd9d3",
+            "brand": "Jordan",
+            "colorway": "Black/Black-White-Hyper Royal",
+            "gender": "child",
+            "model": "Black Hyper Royal (GS)",
+            "releaseDate": "2020-12-19 23:59:59",
+            "retailPrice": 140,
+            "shoe": "Jordan 13 Retro",
+            "styleId": "884129-040",
+            "title": "Jordan 13 Retro Black Hyper Royal (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "aebe12ec-dd6a-482b-bfbc-e84c7ed999b0",
+            "brand": "Jordan",
+            "colorway": "Black/Black-White-Hyper Royal",
+            "gender": "toddler",
+            "model": "Black Hyper Royal (TD)",
+            "releaseDate": "2020-12-19 23:59:59",
+            "retailPrice": 60,
+            "shoe": "Jordan 13 Retro",
+            "styleId": "414581-040",
+            "title": "Jordan 13 Retro Black Hyper Royal (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "790bbb3e-877a-452e-9f58-45b2624cb3ca",
+            "brand": "Nike",
+            "colorway": "White/Deep Royal Blue-White",
+            "gender": "preschool",
+            "model": "White Deep Royal Blue (PS)",
+            "releaseDate": "2020-12-15 23:59:59",
+            "retailPrice": 58,
+            "shoe": "Nike Air Force 1 Low",
+            "styleId": "CU0816-102",
+            "title": "Nike Air Force 1 Low White Deep Royal Blue (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Force-1-Low-White-Deep-Royal-Blue-PS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1585035386",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Force-1-Low-White-Deep-Royal-Blue-PS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1585035386",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Force-1-Low-White-Deep-Royal-Blue-PS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1585035386"
+            }
+        },
+        {
+            "id": "1759b2d8-9b4f-4276-b9b2-500c2e6720ca",
+            "brand": "Jordan",
+            "colorway": "Black/Multi-Color-White-Multi-Color",
+            "gender": "men",
+            "model": "Black Clear",
+            "releaseDate": "2020-12-12 23:59:59",
+            "retailPrice": 220,
+            "shoe": "Jordan 11 Retro",
+            "styleId": "CT8012-011",
+            "title": "Jordan 11 Retro Black Clear",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "a8cbd65f-f6ff-404b-9b1a-0649ad3bc2e9",
+            "brand": "Jordan",
+            "colorway": "Black/Multi-Color-White-Multi-Color",
+            "gender": "child",
+            "model": "Black Clear (GS)",
+            "releaseDate": "2020-12-12 23:59:59",
+            "retailPrice": 180,
+            "shoe": "Jordan 11 Retro",
+            "styleId": null,
+            "title": "Jordan 11 Retro Black Clear (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "63d75cba-a648-4635-8798-eb46e74a432e",
+            "brand": "Jordan",
+            "colorway": "White/White-White",
+            "gender": "men",
+            "model": "Quilted White",
+            "releaseDate": "2020-11-30 23:59:59",
+            "retailPrice": 125,
+            "shoe": "Jordan 1 Mid",
+            "styleId": "DB6078-100",
+            "title": "Jordan 1 Mid Quilted White",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-1-Mid-Quilted-White.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-1-Mid-Quilted-White.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-1-Mid-Quilted-White.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739"
+            }
+        },
+        {
+            "id": "410f509f-b7b9-42aa-8d65-aaf745e6125f",
+            "brand": "Jordan",
+            "colorway": "White/Black-Tech Grey-Fire Red",
+            "gender": "preschool",
+            "model": "Fire Red 2020 (PS)",
+            "releaseDate": "2020-11-27 23:59:59",
+            "retailPrice": 80,
+            "shoe": "Jordan 4 Retro",
+            "styleId": null,
+            "title": "Jordan 4 Retro Fire Red 2020 (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "94e6111e-0c97-4c62-a6f8-b48ff95e1380",
+            "brand": "Jordan",
+            "colorway": "White/Black-Tech Grey-Fire Red",
+            "gender": "toddler",
+            "model": "Fire Red 2020 (TD)",
+            "releaseDate": "2020-11-27 23:59:59",
+            "retailPrice": 60,
+            "shoe": "Jordan 4 Retro",
+            "styleId": null,
+            "title": "Jordan 4 Retro Fire Red 2020 (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "d514a683-46e2-4bc7-9027-fbcdaaaa9005",
+            "brand": "Jordan",
+            "colorway": "White/Black-Tech Grey-Fire Red",
+            "gender": "men",
+            "model": "Fire Red (2020)",
+            "releaseDate": "2020-11-27 23:59:59",
+            "retailPrice": 200,
+            "shoe": "Jordan 4 Retro",
+            "styleId": "DC7770-160",
+            "title": "Jordan 4 Retro Fire Red (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "eba08f43-3e74-4eac-8e5c-fab805056654",
+            "brand": "Jordan",
+            "colorway": "White/Black-Tech Grey-Fire Red",
+            "gender": "child",
+            "model": "Fire Red 2020 (GS)",
+            "releaseDate": "2020-11-27 23:59:59",
+            "retailPrice": 150,
+            "shoe": "Jordan 4 Retro",
+            "styleId": null,
+            "title": "Jordan 4 Retro Fire Red 2020 (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "1dce780f-1b2c-44b6-8043-58fbde2f9591",
+            "brand": "Jordan",
+            "colorway": "Black/Cement Grey-White-Court Purple",
+            "gender": "men",
+            "model": "Black Court Purple",
+            "releaseDate": "2020-11-14 23:59:59",
+            "retailPrice": 190,
+            "shoe": "Jordan 3 Retro",
+            "styleId": "CT8532-050",
+            "title": "Jordan 3 Retro Black Court Purple",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-3-Retro-Black-Court-Purple.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960703",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-3-Retro-Black-Court-Purple.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960703",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-3-Retro-Black-Court-Purple.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960703"
+            }
+        },
+        {
+            "id": "28734a47-623a-4026-a46d-ed022b265362",
+            "brand": "Jordan",
+            "colorway": "Black/Cement Grey-White-Court Purple",
+            "gender": "child",
+            "model": "Black Court Purple (GS)",
+            "releaseDate": "2020-11-14 23:59:59",
+            "retailPrice": 140,
+            "shoe": "Jordan 3 Retro",
+            "styleId": null,
+            "title": "Jordan 3 Retro Black Court Purple (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "5fa3d451-69fc-4229-8a92-273f4eb029a1",
+            "brand": "Jordan",
+            "colorway": "Black/Cement Grey-White-Court Purple",
+            "gender": "preschool",
+            "model": "Black Court Purple (PS)",
+            "releaseDate": "2020-11-14 23:59:59",
+            "retailPrice": 80,
+            "shoe": "Jordan 3 Retro",
+            "styleId": null,
+            "title": "Jordan 3 Retro Black Court Purple (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "638b79ae-0c13-46df-9876-7e93cf527117",
+            "brand": "Jordan",
+            "colorway": "White/Metallic Silver-Midnight Navy",
+            "gender": "men",
+            "model": "Midnight Navy (2020)",
+            "releaseDate": "2020-11-14 23:59:59",
+            "retailPrice": 170,
+            "shoe": "Jordan 1 Retro High",
+            "styleId": "DC1788-100",
+            "title": "Jordan 1 Retro High Midnight Navy (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Midnight-Navy-2020.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960863",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Midnight-Navy-2020.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960863",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Midnight-Navy-2020.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960863"
+            }
+        },
+        {
+            "id": "e5933e27-d286-426f-9898-db875cd93926",
+            "brand": "Jordan",
+            "colorway": "Black/Cement Grey-White-Court Purple",
+            "gender": "toddler",
+            "model": "Black Court Purple (TD)",
+            "releaseDate": "2020-11-14 23:59:59",
+            "retailPrice": 60,
+            "shoe": "Jordan 3 Retro",
+            "styleId": null,
+            "title": "Jordan 3 Retro Black Court Purple (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "f2224ae0-82b0-4da8-a95f-3de840c6c7fa",
+            "brand": "Jordan",
+            "colorway": "White/Gym Red-Black",
+            "gender": "men",
+            "model": "DNA",
+            "releaseDate": "2020-11-11 23:59:59",
+            "retailPrice": 180,
+            "shoe": "Jordan XXXV",
+            "styleId": null,
+            "title": "Jordan XXXV DNA",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "d01d36da-9bea-4b6f-9dfd-1242a83dd6b9",
+            "brand": "Converse",
+            "colorway": "Black/White-Egret",
+            "gender": "men",
+            "model": "Ni Hi N.HOOLYWOOD",
+            "releaseDate": "2020-11-10 23:59:59",
+            "retailPrice": 235,
+            "shoe": "Converse Chuck Taylor All-Star",
+            "styleId": null,
+            "title": "Converse Chuck Taylor All-Star Ni Hi N.HOOLYWOOD",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Converse-Chuck-Taylor-All-Star-Ni-Hi-NHOOLYWOOD.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600156159",
+                "smallImageUrl": "https://stockx.imgix.net/Converse-Chuck-Taylor-All-Star-Ni-Hi-NHOOLYWOOD.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600156159",
+                "thumbUrl": "https://stockx.imgix.net/Converse-Chuck-Taylor-All-Star-Ni-Hi-NHOOLYWOOD.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600156159"
+            }
+        },
+        {
+            "id": "6f33f5da-f7d2-4686-a5ce-402f73da6985",
+            "brand": "Nike",
+            "colorway": "Beige/White-Royal-Pink",
+            "gender": "men",
+            "model": "Los Angeles By Day",
+            "releaseDate": "2020-11-06 23:59:59",
+            "retailPrice": null,
+            "shoe": "Nike LeBron 18",
+            "styleId": null,
+            "title": "Nike LeBron 18 Los Angeles By Day",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "3a1bb780-336a-4364-a26e-83cb58c667a8",
+            "brand": "Jordan",
+            "colorway": "Dark Brown/Black",
+            "gender": "men",
+            "model": "Dark Brown",
+            "releaseDate": "2020-11-01 23:59:59",
+            "retailPrice": null,
+            "shoe": "Jordan Spizike 270 Boot",
+            "styleId": "CT1014-200",
+            "title": "Jordan Spizike 270 Boot Dark Brown",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "6342ad10-2d05-4f77-ac23-1e0bc947dcff",
+            "brand": "Jordan",
+            "colorway": "Black/Black-Black",
+            "gender": "men",
+            "model": "Triple Black",
+            "releaseDate": "2020-11-01 23:59:59",
+            "retailPrice": 150,
+            "shoe": "Jordan Zoom 92",
+            "styleId": "CK9183-002",
+            "title": "Jordan Zoom 92 Triple Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "76df695c-05bb-4b21-8a31-1929e97edaa1",
+            "brand": "Jordan",
+            "colorway": "Black/White-Hyper Royal-Bordeaux",
+            "gender": "men",
+            "model": "Black White Bordeaux",
+            "releaseDate": "2020-11-01 23:59:59",
+            "retailPrice": 150,
+            "shoe": "Jordan Zoom 92",
+            "styleId": null,
+            "title": "Jordan Zoom 92 Black White Bordeaux",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "c197fe02-4029-49d8-9c1a-18fa9b219ca2",
+            "brand": "New Balance",
+            "colorway": "Dark Grey/White",
+            "gender": "men",
+            "model": "United Arrows Dark Grey",
+            "releaseDate": "2020-11-01 23:59:59",
+            "retailPrice": 192,
+            "shoe": "New Balance 1700",
+            "styleId": null,
+            "title": "New Balance 1700 United Arrows Dark Grey",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/New-Balance-1700-United-Arrows-Dark-Grey.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1599088498",
+                "smallImageUrl": "https://stockx.imgix.net/New-Balance-1700-United-Arrows-Dark-Grey.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1599088498",
+                "thumbUrl": "https://stockx.imgix.net/New-Balance-1700-United-Arrows-Dark-Grey.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1599088498"
+            }
+        },
+        {
+            "id": "c46848ec-5508-4e7a-844f-be6983ac06aa",
+            "brand": "Jordan",
+            "colorway": "Wheat/Black-Gym Red-Tan",
+            "gender": "men",
+            "model": "Wheat",
+            "releaseDate": "2020-11-01 23:59:59",
+            "retailPrice": null,
+            "shoe": "Jordan Spizike 270 Boot",
+            "styleId": "CT1014-201",
+            "title": "Jordan Spizike 270 Boot Wheat",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "2b96fb6a-f635-4d49-b9a1-de1c4400186a",
+            "brand": "Jordan",
+            "colorway": "Sail/Dark Mocha-Black-Black",
+            "gender": "men",
+            "model": "Dark Mocha (GS)",
+            "releaseDate": "2020-10-31 23:59:59",
+            "retailPrice": 130,
+            "shoe": "Jordan 1 Retro High",
+            "styleId": "575441-105",
+            "title": "Jordan 1 Retro High Dark Mocha (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "f7dcb00f-d0a0-4d47-b419-5022b1b84411",
+            "brand": "Jordan",
+            "colorway": "Sail/Dark Mocha-Black-Black",
+            "gender": "men",
+            "model": "Dark Mocha",
+            "releaseDate": "2020-10-31 23:59:59",
+            "retailPrice": 170,
+            "shoe": "Jordan 1 Retro High",
+            "styleId": "555088-105",
+            "title": "Jordan 1 Retro High Dark Mocha",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Dark-Mocha.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960962",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Dark-Mocha.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960962",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Dark-Mocha.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960962"
+            }
+        },
+        {
+            "id": "146036fb-26b0-4c10-a2bb-4af807d5ad2a",
+            "brand": "Nike",
+            "colorway": "White/Clear-Black",
+            "gender": "men",
+            "model": "Slam Jam White Black",
+            "releaseDate": "2020-10-30 23:59:59",
+            "retailPrice": 120,
+            "shoe": "Nike Dunk High",
+            "styleId": null,
+            "title": "Nike Dunk High Slam Jam White Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Dunk-High-Slam-Jam-White-Black.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600767055",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Dunk-High-Slam-Jam-White-Black.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600767055",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Dunk-High-Slam-Jam-White-Black.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600767055"
+            }
+        },
+        {
+            "id": "846f10ce-7921-48a1-806d-1f3110a67e38",
+            "brand": "Jordan",
+            "colorway": "Multi-Color/Multi-Color",
+            "gender": "men",
+            "model": "Fragment",
+            "releaseDate": "2020-10-28 23:59:59",
+            "retailPrice": null,
+            "shoe": "Jordan XXXXV",
+            "styleId": null,
+            "title": "Jordan XXXXV Fragment",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "907170b6-f33b-4541-ad93-c1dce378cadf",
+            "brand": "Nike",
+            "colorway": "Eggplant/White-Black-White",
+            "gender": "men",
+            "model": "Eggplant (2020)",
+            "releaseDate": "2020-10-22 23:59:59",
+            "retailPrice": 155,
+            "shoe": "Nike Air Penny 3",
+            "styleId": "CT2809-500",
+            "title": "Nike Air Penny 3 Eggplant (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "a67cecd4-3d8a-4a46-8b70-3fe22a4021ed",
+            "brand": "Nike",
+            "colorway": "Violet Ash/White-Light Arctic Pink-Violet-Magic Flamingo",
+            "gender": "women",
+            "model": "Light Arctic Pink (W)",
+            "releaseDate": "2020-10-22 23:59:59",
+            "retailPrice": 220,
+            "shoe": "Nike Air VaporMax 2020 Flyknit",
+            "styleId": "CT1933-500",
+            "title": "Nike Air VaporMax 2020 Flyknit Light Arctic Pink (W)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-VaporMax-2020-Flyknit-Light-Arctic-Pink-W.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601108610",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-VaporMax-2020-Flyknit-Light-Arctic-Pink-W.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601108610",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-VaporMax-2020-Flyknit-Light-Arctic-Pink-W.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601108610"
+            }
+        },
+        {
+            "id": "42daa3c6-62c7-44b0-99fc-36f3b5f8111d",
+            "brand": "Jordan",
+            "colorway": "Black/University Red-Cement Grey",
+            "gender": "men",
+            "model": "Warrior",
+            "releaseDate": "2020-10-21 23:59:59",
+            "retailPrice": 180,
+            "shoe": "Jordan XXXV",
+            "styleId": null,
+            "title": "Jordan XXXV Warrior",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "6485f542-8a4f-4a94-9b6d-5f75c374634b",
+            "brand": "Reebok",
+            "colorway": "Black/True Grey 7-White",
+            "gender": "men",
+            "model": "Legion of Fury Black",
+            "releaseDate": "2020-10-20 23:59:59",
+            "retailPrice": 170,
+            "shoe": "Reebok Instapump Fury",
+            "styleId": "FW7699",
+            "title": "Reebok Instapump Fury Legion of Fury Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-Black.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270",
+                "smallImageUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-Black.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270",
+                "thumbUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-Black.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270"
+            }
+        },
+        {
+            "id": "7df5f5d5-56e5-466c-bb17-2cd4049a779f",
+            "brand": "Reebok",
+            "colorway": "White/Black-True Grey 1",
+            "gender": "men",
+            "model": "Legion of Fury White",
+            "releaseDate": "2020-10-20",
+            "retailPrice": 170,
+            "shoe": "Reebok Instapump Fury",
+            "styleId": "FW7700",
+            "title": "Reebok Instapump Fury Legion of Fury White",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-White.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270",
+                "smallImageUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-White.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270",
+                "thumbUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-White.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270"
+            }
+        },
+        {
+            "id": "8ae747a7-b6dd-4217-8c0e-1448687d4e1d",
+            "brand": "Reebok",
+            "colorway": "Chalk/Glass Pink-White",
+            "gender": "men",
+            "model": "Legion of Fury Blue",
+            "releaseDate": "2020-10-20",
+            "retailPrice": 170,
+            "shoe": "Reebok Instapump Fury",
+            "styleId": "FW7698",
+            "title": "Reebok Instapump Fury Legion of Fury Blue",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-Blue.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270",
+                "smallImageUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-Blue.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270",
+                "thumbUrl": "https://stockx.imgix.net/Reebok-Instapump-Fury-Legion-of-Fury-Blue.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546270"
+            }
+        },
+        {
+            "id": "21e231cc-a04e-469c-ba43-769372750ca9",
+            "brand": "Jordan",
+            "colorway": "Grey/Multi-Color",
+            "gender": "men",
+            "model": "Center of Gravity",
+            "releaseDate": "2020-10-17 23:59:59",
+            "retailPrice": 180,
+            "shoe": "Jordan XXXV",
+            "styleId": "DC1492-001/DC1493-001",
+            "title": "Jordan XXXV Center of Gravity",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-XXXV-Center-of-Gravity.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601319445",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-XXXV-Center-of-Gravity.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601319445",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-XXXV-Center-of-Gravity.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601319445"
+            }
+        },
+        {
+            "id": "24c7f083-8368-4918-a746-242145a2d8c3",
+            "brand": "Jordan",
+            "colorway": "Black/Black-Dark Concord",
+            "gender": "men",
+            "model": "Black Dark Concord",
+            "releaseDate": "2020-10-17 23:59:59",
+            "retailPrice": 190,
+            "shoe": "Jordan 12 Retro",
+            "styleId": "CT8013-005",
+            "title": "Jordan 12 Retro Black Dark Concord",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-12-Retro-Black-Dark-Concord.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961098",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-12-Retro-Black-Dark-Concord.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961098",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-12-Retro-Black-Dark-Concord.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961098"
+            }
+        },
+        {
+            "id": "f505aab9-f9cf-4670-810d-4cee7e34187c",
+            "brand": "Jordan",
+            "colorway": "Black/Black-Dark Concord",
+            "gender": "child",
+            "model": "Black Dark Concord (GS)",
+            "releaseDate": "2020-10-17 23:59:59",
+            "retailPrice": 140,
+            "shoe": "Jordan 12 Retro",
+            "styleId": null,
+            "title": "Jordan 12 Retro Black Dark Concord (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "0b55d4bb-0367-4052-99aa-fc23af3fb178",
+            "brand": "Nike",
+            "colorway": "Black/Anthracite-Black",
+            "gender": "toddler",
+            "model": "Anthracite 2020 (TD)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 75,
+            "shoe": "Nike Air Foamposite One",
+            "styleId": "723947-014",
+            "title": "Nike Air Foamposite One Anthracite 2020 (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-TD.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364702",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-TD.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364702",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-TD.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364702"
+            }
+        },
+        {
+            "id": "0c8688ef-a986-41fa-a9e0-297caab0b6aa",
+            "brand": "Nike",
+            "colorway": "Black/Anthracite-Black",
+            "gender": "infant",
+            "model": "Anthracite 2020 (I)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 55,
+            "shoe": "Nike Air Foamposite One",
+            "styleId": "644790-015",
+            "title": "Nike Air Foamposite One Anthracite 2020 (I)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-I.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364703",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-I.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364703",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-I.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364703"
+            }
+        },
+        {
+            "id": "0cafbed1-f402-428d-93f3-c7281212c202",
+            "brand": "adidas",
+            "colorway": "Ray Blue/Gold Orange/Mesa",
+            "gender": "child",
+            "model": "Toy Story Woody (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 90,
+            "shoe": "adidas D.O.N. Issue 2",
+            "styleId": "FX1595",
+            "title": "adidas D.O.N. Issue 2 Toy Story Woody (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-DON-Issue-2-Toy-Story-Woody-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880568",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-DON-Issue-2-Toy-Story-Woody-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880568",
+                "thumbUrl": "https://stockx.imgix.net/adidas-DON-Issue-2-Toy-Story-Woody-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880568"
+            }
+        },
+        {
+            "id": "183b8f3f-d71f-4c7b-a806-90ee0be11e27",
+            "brand": "Jordan",
+            "colorway": "Game Royal/Black-White",
+            "gender": "women",
+            "model": "Sisterhood (W)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 125,
+            "shoe": "Jordan 1 Mid",
+            "styleId": "CV0152-401",
+            "title": "Jordan 1 Mid Sisterhood (W)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-1-Mid-Sisterhood-W.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546271",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-1-Mid-Sisterhood-W.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546271",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-1-Mid-Sisterhood-W.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546271"
+            }
+        },
+        {
+            "id": "234484f6-19ca-4c9b-aab6-9aefc01730db",
+            "brand": "adidas",
+            "colorway": "Cloud White/Signal Green/Solar Red",
+            "gender": "child",
+            "model": "Toy Story Buzz Lightyear (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 100,
+            "shoe": "adidas Dame 7",
+            "styleId": "FY4924",
+            "title": "adidas Dame 7 Toy Story Buzz Lightyear (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Dame-7-Toy-Story-Buzz-Lightyear-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880569",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Dame-7-Toy-Story-Buzz-Lightyear-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880569",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Dame-7-Toy-Story-Buzz-Lightyear-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880569"
+            }
+        },
+        {
+            "id": "313ded69-75d2-4f97-811c-60cf562de882",
+            "brand": "adidas",
+            "colorway": "Glow Pink/Pink Tint/Cloud White",
+            "gender": "child",
+            "model": "Toy Story Hamm (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 75,
+            "shoe": "adidas Superstar",
+            "styleId": "FZ4539",
+            "title": "adidas Superstar Toy Story Hamm (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Superstar-Toy-Story-Hamm-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880573",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Superstar-Toy-Story-Hamm-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880573",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Superstar-Toy-Story-Hamm-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880573"
+            }
+        },
+        {
+            "id": "6558b0e7-417f-4636-8a2c-5deb4602a557",
+            "brand": "adidas",
+            "colorway": "Solar Slime/Bold Aqua/Grey Three",
+            "gender": "child",
+            "model": "Toy Story Pizza Planet (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 60,
+            "shoe": "adidas Deep Threat",
+            "styleId": "FY4946",
+            "title": "adidas Deep Threat Toy Story Pizza Planet (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Deep-Threat-Toy-Story-Pizza-Planet-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880570",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Deep-Threat-Toy-Story-Pizza-Planet-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880570",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Deep-Threat-Toy-Story-Pizza-Planet-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880570"
+            }
+        },
+        {
+            "id": "7616e09b-8d4a-42c7-8a3b-d284751544d4",
+            "brand": "Nike",
+            "colorway": "Black/Team Royal-Team Orange-Black",
+            "gender": "men",
+            "model": "Gradient Soles",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 230,
+            "shoe": "Nike Air Foamposite One",
+            "styleId": "CU8063-001",
+            "title": "Nike Air Foamposite One Gradient Soles",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Black-Gradient-Soles.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1595615077",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Black-Gradient-Soles.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1595615077",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Black-Gradient-Soles.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1595615077"
+            }
+        },
+        {
+            "id": "8c522534-abbe-4b77-b7a4-8838f1cfcb34",
+            "brand": "adidas",
+            "colorway": "Cloud White/Silver Metallic/Bright Yellow",
+            "gender": "child",
+            "model": "Toy Story Woody (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 120,
+            "shoe": "adidas NMD R1",
+            "styleId": "FZ4540",
+            "title": "adidas NMD R1 Toy Story Woody (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-NMD-R1-Toy-Story-Woody-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880572",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-NMD-R1-Toy-Story-Woody-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880572",
+                "thumbUrl": "https://stockx.imgix.net/adidas-NMD-R1-Toy-Story-Woody-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880572"
+            }
+        },
+        {
+            "id": "92163729-4df5-42a8-abfb-ada180f71543",
+            "brand": "Nike",
+            "colorway": "Black/Anthracite-Black",
+            "gender": "preschool",
+            "model": "Anthracite 2020 (PS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 100,
+            "shoe": "Nike Air Foamposite One",
+            "styleId": "723946-014",
+            "title": "Nike Air Foamposite One Anthracite 2020 (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-PS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364702",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-PS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364702",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-PS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364702"
+            }
+        },
+        {
+            "id": "940aa7be-0b8b-46f3-9ce6-51a1ed7fc8ce",
+            "brand": "Nike",
+            "colorway": "Black/Metallic Silver-Dusty Amethyst",
+            "gender": "men",
+            "model": "Dusty Amethyst",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 120,
+            "shoe": "Nike Zoom Freak 2",
+            "styleId": "CK5825-005 / CK5424-005",
+            "title": "Nike Zoom Freak 2 Dusty Amethyst",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "ac077fa6-4df3-47fe-9ac9-0d2067c1ba10",
+            "brand": "adidas",
+            "colorway": "Green/Supplier Colour/Supplier Colour",
+            "gender": "child",
+            "model": "Toy Story Rex (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 80,
+            "shoe": "adidas Top Ten Hi",
+            "styleId": "FZ4531",
+            "title": "adidas Top Ten Hi Toy Story Rex (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Top-Ten-Hi-Toy-Story-Rex-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880574",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Top-Ten-Hi-Toy-Story-Rex-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880574",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Top-Ten-Hi-Toy-Story-Rex-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600880574"
+            }
+        },
+        {
+            "id": "b4f32207-bfde-423c-ac75-6c9ad97af7ab",
+            "brand": "Nike",
+            "colorway": "Black/Anthracite-Black",
+            "gender": "child",
+            "model": "Anthracite 2020 (GS)",
+            "releaseDate": "2020-10-15 23:59:59",
+            "retailPrice": 180,
+            "shoe": "Nike Air Foamposite One",
+            "styleId": "644791-014",
+            "title": "Nike Air Foamposite One Anthracite 2020 (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364698",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364698",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Foamposite-One-Anthracite-2020-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364698"
+            }
+        },
+        {
+            "id": "f8bed538-cffc-4141-bd58-98cecc24c6a9",
+            "brand": "Nike",
+            "colorway": "Black/Metallic Silver-Dusty Amethyst",
+            "gender": "child",
+            "model": "Dusty Amethyst (GS)",
+            "releaseDate": "2020-10-15",
+            "retailPrice": 100,
+            "shoe": "Nike Zoom Freak 2",
+            "styleId": "CN8574-005",
+            "title": "Nike Zoom Freak 2 Dusty Amethyst (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "smallImageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "thumbUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0"
+            }
+        },
+        {
+            "id": "5422a9ac-de4a-4cbd-b27a-12f25bca7e79",
+            "brand": "Reebok",
+            "colorway": "Black/White-Black",
+            "gender": "men",
+            "model": "White Black",
+            "releaseDate": "2020-10-14 23:59:59",
+            "retailPrice": 140,
+            "shoe": "Reebok Shaqnosis",
+            "styleId": "FV9284",
+            "title": "Reebok Shaqnosis White Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Reebok-Shaqnosis-White-Black.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490738",
+                "smallImageUrl": "https://stockx.imgix.net/Reebok-Shaqnosis-White-Black.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490738",
+                "thumbUrl": "https://stockx.imgix.net/Reebok-Shaqnosis-White-Black.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490738"
+            }
+        },
+        {
+            "id": "6ce395f1-3362-4d41-8c3e-6e2037f6dd43",
+            "brand": "Reebok",
+            "colorway": "Black/Brown-High Vis Orange",
+            "gender": "men",
+            "model": "Halloween (2020)",
+            "releaseDate": "2020-10-14 23:59:59",
+            "retailPrice": 130,
+            "shoe": "Reebok Kamikaze II",
+            "styleId": "FZ1330",
+            "title": "Reebok Kamikaze II Halloween (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "d6727064-2188-4afc-b679-852859e2f98a",
+            "brand": "Reebok",
+            "colorway": "Alabaster/Glass Pink-Black",
+            "gender": "men",
+            "model": "Halloween (2020)",
+            "releaseDate": "2020-10-14 23:59:59",
+            "retailPrice": 150,
+            "shoe": "Reebok Question Mid",
+            "styleId": "FZ1357",
+            "title": "Reebok Question Mid Halloween (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "4faa162d-06af-4dd9-a23c-f2d503c0036c",
+            "brand": "Reebok",
+            "colorway": "Black/White-Black",
+            "gender": "men",
+            "model": "Halloween (2020)",
+            "releaseDate": "2020-10-14",
+            "retailPrice": 0,
+            "shoe": "Reebok Shaqnosis",
+            "styleId": "FZ1359",
+            "title": "Reebok Shaqnosis Halloween (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "smallImageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "thumbUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0"
+            }
+        },
+        {
+            "id": "13d185bd-657d-41e8-8321-d49f468c8351",
+            "brand": "Jordan",
+            "colorway": "White/Soar-Atom Red",
+            "gender": "women",
+            "model": "Seoul (W)",
+            "releaseDate": "2020-10-12 23:59:59",
+            "retailPrice": null,
+            "shoe": "Jordan 3 Retro",
+            "styleId": null,
+            "title": "Jordan 3 Retro Seoul (W)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "6efe2f4f-9cba-4f18-989e-d8fcc5f97b12",
+            "brand": "Jordan",
+            "colorway": "Lucky Green/White-Black-Sail",
+            "gender": "preschool",
+            "model": "Lucky Green (PS)",
+            "releaseDate": "2020-10-11 23:59:59",
+            "retailPrice": 80,
+            "shoe": "Jordan 1 Retro High",
+            "styleId": null,
+            "title": "Jordan 1 Retro High Lucky Green (PS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "933c863a-b234-4cc2-b43c-2152aa80985b",
+            "brand": "Jordan",
+            "colorway": "Lucky Green/White-Black-Sail",
+            "gender": "toddler",
+            "model": "Lucky Green (TD)",
+            "releaseDate": "2020-10-11 23:59:59",
+            "retailPrice": 60,
+            "shoe": "Jordan 1 Retro High",
+            "styleId": null,
+            "title": "Jordan 1 Retro High Lucky Green (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "d6780341-ea0f-48a6-ab13-c9561372936f",
+            "brand": "Jordan",
+            "colorway": "Lucky Green/White-Sail-Black",
+            "gender": "women",
+            "model": "Lucky Green (W)",
+            "releaseDate": "2020-10-11 23:59:59",
+            "retailPrice": 170,
+            "shoe": "Jordan 1 Retro High",
+            "styleId": "DB4612-300",
+            "title": "Jordan 1 Retro High Lucky Green (W)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Lucky-Green-W.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960780",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Lucky-Green-W.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960780",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Lucky-Green-W.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600960780"
+            }
+        },
+        {
+            "id": "08243ccb-3e4c-4aa3-9b27-245d77cbd8e6",
+            "brand": "Jordan",
+            "colorway": "White/Black-Metallic Gold-Bordeaux",
+            "gender": "men",
+            "model": "PSG Paris Saint-Germain",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 225,
+            "shoe": "Jordan 4 Retro",
+            "styleId": "CZ5624-100",
+            "title": "Jordan 4 Retro PSG Paris Saint-Germain",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-4-Retro-PSG-Paris-Saint-Germain.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961044",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-4-Retro-PSG-Paris-Saint-Germain.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961044",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-4-Retro-PSG-Paris-Saint-Germain.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961044"
+            }
+        },
+        {
+            "id": "1f09e2f4-e7de-4281-8187-2fd1e9bad845",
+            "brand": "Jordan",
+            "colorway": "White/Bordeaux-Neutral Grey-Black",
+            "gender": "child",
+            "model": "PSG Paris Saint-Germain (GS)",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 200,
+            "shoe": "Jordan 4 Retro",
+            "styleId": "CZ6509-100",
+            "title": "Jordan 4 Retro PSG Paris Saint-Germain (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-4-Retro-PSG-Paris-Saint-Germain-GS.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961067",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-4-Retro-PSG-Paris-Saint-Germain-GS.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961067",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-4-Retro-PSG-Paris-Saint-Germain-GS.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1600961067"
+            }
+        },
+        {
+            "id": "3e3caa53-7fc8-411c-91be-62db54f8b621",
+            "brand": "Vans",
+            "colorway": "Black",
+            "gender": "men",
+            "model": "Kar L'Art de L'Automobile",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": null,
+            "shoe": "Vans Era",
+            "styleId": "VN0A4BNH261",
+            "title": "Vans Era Kar L'Art de L'Automobile",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "9a850a80-8c5a-4738-b801-386b23416dfb",
+            "brand": "adidas",
+            "colorway": "Ophani/Ophani/Ophani",
+            "gender": "preschool",
+            "model": "Ophani (Kids)",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 180,
+            "shoe": "adidas YZY QNTM",
+            "styleId": "G58865",
+            "title": "adidas YZY QNTM Ophani (Kids)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani-Kids.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani-Kids.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810",
+                "thumbUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani-Kids.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810"
+            }
+        },
+        {
+            "id": "9ae1193e-9325-4e5c-bfa0-db303eb24398",
+            "brand": "adidas",
+            "colorway": "Ophani/Ophani/Ophani",
+            "gender": "men",
+            "model": "Ophani",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 250,
+            "shoe": "adidas YZY QNTM",
+            "styleId": "G58864",
+            "title": "adidas YZY QNTM Ophani",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810",
+                "thumbUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810"
+            }
+        },
+        {
+            "id": "9cb236f6-a9a0-4201-8a6a-633c32f7da22",
+            "brand": "adidas",
+            "colorway": "Footwear White/Silver Metallic/Core Black",
+            "gender": "men",
+            "model": "Sankuanz",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": null,
+            "shoe": "adidas Solution Streetball",
+            "styleId": "FY3504",
+            "title": "adidas Solution Streetball Sankuanz",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Solution-Streetball-Sankuanz.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649161",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Solution-Streetball-Sankuanz.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649161",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Solution-Streetball-Sankuanz.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649161"
+            }
+        },
+        {
+            "id": "9d81cd2b-c93d-4a64-877e-f9954c00db99",
+            "brand": "Jordan",
+            "colorway": "Varsity Royal/Varsity Royal-Cement Grey",
+            "gender": "men",
+            "model": "Varsity Royal Cement",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 190,
+            "shoe": "Jordan 3 Retro",
+            "styleId": "CT8532-400",
+            "title": "Jordan 3 Retro Varsity Royal Cement",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-3-Retro-Varsity-Royal-Cement-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1596134320",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-3-Retro-Varsity-Royal-Cement-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1596134320",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-3-Retro-Varsity-Royal-Cement-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1596134320"
+            }
+        },
+        {
+            "id": "d85d19a1-eb49-47d3-9c60-8463bcaeacbe",
+            "brand": "Jordan",
+            "colorway": "Black/Bordeaux-White-Metallic Gold",
+            "gender": "men",
+            "model": "PSG (2020)",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 140,
+            "shoe": "Jordan Zoom Renegade",
+            "styleId": "CZ3957-001",
+            "title": "Jordan Zoom Renegade PSG (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-Zoom-Renegade-PSG-2020.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601662206",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-Zoom-Renegade-PSG-2020.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601662206",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-Zoom-Renegade-PSG-2020.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601662206"
+            }
+        },
+        {
+            "id": "e008ee53-cc09-4558-8c1d-163174525b0f",
+            "brand": "Jordan",
+            "colorway": "Light Graphite/Neutral Grey-Black-Bordeaux",
+            "gender": "men",
+            "model": "PSG Paris Saint-Germain",
+            "releaseDate": "2020-10-10 23:59:59",
+            "retailPrice": 150,
+            "shoe": "Jordan Zoom 92",
+            "styleId": "DA2554-006",
+            "title": "Jordan Zoom 92 PSG Paris Saint-Germain",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Air-Jordan-Zoom-92-PSG-Paris-Saint-Germain.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364519",
+                "smallImageUrl": "https://stockx.imgix.net/Air-Jordan-Zoom-92-PSG-Paris-Saint-Germain.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364519",
+                "thumbUrl": "https://stockx.imgix.net/Air-Jordan-Zoom-92-PSG-Paris-Saint-Germain.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601364519"
+            }
+        },
+        {
+            "id": "079d4720-7673-4418-ae74-23d9cdc41ee9",
+            "brand": "adidas",
+            "colorway": "Footwear White/Silver Metallic/Core Black",
+            "gender": "men",
+            "model": "Sankuanz",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 0,
+            "shoe": "adidas Streetball Forum Mid",
+            "styleId": "FY4721",
+            "title": "adidas Streetball Forum Mid Sankuanz",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Streetball-Forum-Mid-Sankuanz.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649161",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Streetball-Forum-Mid-Sankuanz.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649161",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Streetball-Forum-Mid-Sankuanz.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649161"
+            }
+        },
+        {
+            "id": "26b719ea-d81b-40ff-aad2-df0e7a4f1967",
+            "brand": "Converse",
+            "colorway": "Black/White-Egret",
+            "gender": "men",
+            "model": "Canvas Hi Coach Black",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 160,
+            "shoe": "Converse Chuck Taylor All-Star",
+            "styleId": "",
+            "title": "Converse Chuck Taylor All-Star Canvas Hi Coach Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "smallImageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "thumbUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0"
+            }
+        },
+        {
+            "id": "28e11ffe-1ae0-4674-88db-fba127e713f3",
+            "brand": "adidas",
+            "colorway": "Footwear White/Silver Metallic/Core Black",
+            "gender": "men",
+            "model": "Sankuanz",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 0,
+            "shoe": "adidas Rivalry Promodel",
+            "styleId": "FY3501",
+            "title": "adidas Rivalry Promodel Sankuanz",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Rivalry-Promodel-Sankuanz.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649160",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Rivalry-Promodel-Sankuanz.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649160",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Rivalry-Promodel-Sankuanz.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601649160"
+            }
+        },
+        {
+            "id": "3125d056-1a60-4451-9980-58ab3e9e74a2",
+            "brand": "Converse",
+            "colorway": "Green/White-Egret",
+            "gender": "men",
+            "model": "Canvas Hi Coach Green",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 160,
+            "shoe": "Converse Chuck Taylor All-Star",
+            "styleId": "",
+            "title": "Converse Chuck Taylor All-Star Canvas Hi Coach Green",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "smallImageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "thumbUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0"
+            }
+        },
+        {
+            "id": "7ea6a6c8-52cf-4646-9bb3-b32f0d3bb9e1",
+            "brand": "adidas",
+            "colorway": "Ophani/Ophani/Ophani",
+            "gender": "toddler",
+            "model": "Ophani (Infants)",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 160,
+            "shoe": "adidas YZY QNTM",
+            "styleId": "G58866",
+            "title": "adidas YZY QNTM Ophani (Infants)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani-Infants.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani-Infants.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810",
+                "thumbUrl": "https://stockx.imgix.net/adidas-YZY-QNTM-Ophani-Infants.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601656810"
+            }
+        },
+        {
+            "id": "aa8b81f3-b4bf-4866-9020-096dd85303fd",
+            "brand": "Converse",
+            "colorway": "White/Red-Egret",
+            "gender": "men",
+            "model": "Canvas Hi Coach White",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 160,
+            "shoe": "Converse Chuck Taylor All-Star",
+            "styleId": "",
+            "title": "Converse Chuck Taylor All-Star Canvas Hi Coach White",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "smallImageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "thumbUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0"
+            }
+        },
+        {
+            "id": "b6a84373-74f7-41a1-8db8-a817990c4fc0",
+            "brand": "Converse",
+            "colorway": "Purple/White-Egret",
+            "gender": "men",
+            "model": "Canvas Hi Coach Purple",
+            "releaseDate": "2020-10-10",
+            "retailPrice": 160,
+            "shoe": "Converse Chuck Taylor All-Star",
+            "styleId": "",
+            "title": "Converse Chuck Taylor All-Star Canvas Hi Coach Purple",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "smallImageUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0",
+                "thumbUrl": "https://stockx-assets.imgix.net/media/New-Product-Placeholder-Default.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=0"
+            }
+        },
+        {
+            "id": "217b5f54-eb25-4fec-96f9-8a45ad91760e",
+            "brand": "New Balance",
+            "colorway": "White/Red",
+            "gender": "men",
+            "model": "Aime Leon Dore White Red",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "New Balance 550",
+            "styleId": null,
+            "title": "New Balance 550 Aime Leon Dore White Red",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "28e69a67-4601-45c5-94f0-452f6838ae0f",
+            "brand": "New Balance",
+            "colorway": "White/Grey",
+            "gender": "men",
+            "model": "Aime Leon Dore White Grey",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "New Balance 550",
+            "styleId": null,
+            "title": "New Balance 550 Aime Leon Dore White Grey",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "4e54289c-e531-4b4d-9ca2-8dd131b5e2bd",
+            "brand": "New Balance",
+            "colorway": "White/Green",
+            "gender": "men",
+            "model": "Aime Leon Dore White Green",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "New Balance 550",
+            "styleId": null,
+            "title": "New Balance 550 Aime Leon Dore White Green",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "51802d2f-410c-4e34-9bf8-683996bd58f4",
+            "brand": "Nike",
+            "colorway": "Black/Multi-Color-White",
+            "gender": "child",
+            "model": "Multicolor (GS)",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "Nike LeBron 18",
+            "styleId": null,
+            "title": "Nike LeBron 18 Multicolor (GS)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "8209949c-7d01-4fe5-889a-38e414f2fc1e",
+            "brand": "Nike",
+            "colorway": "Black/Multi-Color-White",
+            "gender": "men",
+            "model": "Multicolor",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": 200,
+            "shoe": "Nike LeBron 18",
+            "styleId": "CQ9283-002",
+            "title": "Nike LeBron 18 Multicolor",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "bd642448-1e72-43a6-90ed-f552f2c9120c",
+            "brand": "adidas",
+            "colorway": "Crystal White/Scarlet/Off-White",
+            "gender": "men",
+            "model": "Wyld Stallyns",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "adidas Torsion Artillery High",
+            "styleId": "FZ0883",
+            "title": "adidas Torsion Artillery High Wyld Stallyns",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Torsion-Artillery-High-Wyld-Stallyns.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546269",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Torsion-Artillery-High-Wyld-Stallyns.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546269",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Torsion-Artillery-High-Wyld-Stallyns.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546269"
+            }
+        },
+        {
+            "id": "c0b3f56d-182b-4c72-ad2f-9aa03dae7f39",
+            "brand": "New Balance",
+            "colorway": "White/Navy",
+            "gender": "men",
+            "model": "Aime Leon Dore White Navy",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "New Balance 550",
+            "styleId": null,
+            "title": "New Balance 550 Aime Leon Dore White Navy",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "e80fee2b-c2e7-4d6a-81fc-e66b42cd5e60",
+            "brand": "Nike",
+            "colorway": "Black/Multi-Color-White",
+            "gender": "toddler",
+            "model": "Multicolor (TD)",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "Nike LeBron 18",
+            "styleId": null,
+            "title": "Nike LeBron 18 Multicolor (TD)",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "f95a09ba-92ed-4b70-9164-5289047a68e0",
+            "brand": "adidas",
+            "colorway": "Crystal White/Core Black/Off-White",
+            "gender": "men",
+            "model": "Kid Cudi",
+            "releaseDate": "2020-10-09 23:59:59",
+            "retailPrice": null,
+            "shoe": "adidas Torsion Artillery High",
+            "styleId": "FZ0884",
+            "title": "adidas Torsion Artillery High Kid Cudi",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/adidas-Torsion-Artillery-High-Kid-Cudi.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546269",
+                "smallImageUrl": "https://stockx.imgix.net/adidas-Torsion-Artillery-High-Kid-Cudi.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546269",
+                "thumbUrl": "https://stockx.imgix.net/adidas-Torsion-Artillery-High-Kid-Cudi.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601546269"
+            }
+        },
+        {
+            "id": "8dbbca90-a295-41cd-ae20-767afabf9909",
+            "brand": "Converse",
+            "colorway": "Black/Black-Black",
+            "gender": "men",
+            "model": "Lugged Hi A-COLD-WALL Black",
+            "releaseDate": "2020-10-08 23:59:59",
+            "retailPrice": 160,
+            "shoe": "Converse Chuck Taylor All-Star",
+            "styleId": "169814C",
+            "title": "Converse Chuck Taylor All-Star Lugged Hi A-COLD-WALL Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": null,
+                "smallImageUrl": null,
+                "thumbUrl": null
+            }
+        },
+        {
+            "id": "f1bb5cd3-e160-4352-80cc-0ee38e05c2e4",
+            "brand": "Nike",
+            "colorway": "Wheat/Wheat-Dark Mocha",
+            "gender": "men",
+            "model": "Wheat Dark Mocha",
+            "releaseDate": "2020-10-08 23:59:59",
+            "retailPrice": 130,
+            "shoe": "Nike Air Force 1 Low",
+            "styleId": "DC7504-700",
+            "title": "Nike Air Force 1 Low Wheat Dark Mocha",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Force-1-Low-CO-JP-Wheat-2020.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601319477",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Force-1-Low-CO-JP-Wheat-2020.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601319477",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Force-1-Low-CO-JP-Wheat-2020.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601319477"
+            }
+        },
+        {
+            "id": "f8283cfa-3308-4c39-a510-5e386c3d8fd4",
+            "brand": "Nike",
+            "colorway": "Black/Grey-White",
+            "gender": "men",
+            "model": "OG Black Grey (2020)",
+            "releaseDate": "2020-10-08 23:59:59",
+            "retailPrice": null,
+            "shoe": "Nike Air Raid",
+            "styleId": "DC1412-001",
+            "title": "Nike Air Raid OG Black Grey (2020)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Raid-OG-Black-Grey-2020.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601674663",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Raid-OG-Black-Grey-2020.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601674663",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Raid-OG-Black-Grey-2020.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601674663"
+            }
+        },
+        {
+            "id": "7db4ee90-81d1-4e31-b1fe-c6f5af6498c5",
+            "brand": "Nike",
+            "colorway": "White/Metallic Summit White-Barely Volt",
+            "gender": "women",
+            "model": "White Barely Volt (W)",
+            "releaseDate": "2020-10-05 23:59:59",
+            "retailPrice": 160,
+            "shoe": "Nike Air Max ZM950",
+            "styleId": "CK7212-100",
+            "title": "Nike Air Max ZM950 White Barely Volt (W)",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Max-ZM950-White-Barely-Volt-W.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Max-ZM950-White-Barely-Volt-W.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Max-ZM950-White-Barely-Volt-W.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739"
+            }
+        },
+        {
+            "id": "b606ff61-590b-476c-b3d8-15e52aa38960",
+            "brand": "Nike",
+            "colorway": "Black/Metallic Silver-Bright Crimson-Black",
+            "gender": "men",
+            "model": "Black",
+            "releaseDate": "2020-10-05 23:59:59",
+            "retailPrice": 160,
+            "shoe": "Nike Air Max ZM950",
+            "styleId": "CJ6700-001",
+            "title": "Nike Air Max ZM950 Black",
+            "year": 2020,
+            "media": {
+                "imageUrl": "https://stockx.imgix.net/Nike-Air-Max-ZM950-Black.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739",
+                "smallImageUrl": "https://stockx.imgix.net/Nike-Air-Max-ZM950-Black.png?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739",
+                "thumbUrl": "https://stockx.imgix.net/Nike-Air-Max-ZM950-Black.png?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1601490739"
+            }
+        }
+    ]
+}
