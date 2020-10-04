@@ -1,4 +1,5 @@
 import data from '../../database';
+import { isEmpty } from '../../helpers';
 
 export const getAll = (req, res) => {
   const { search, page = 1, limit = 10 } = req.query;
@@ -10,9 +11,10 @@ export const getAll = (req, res) => {
   let sortedData = [...data.results].sort(
     (a, b) => new Date(b.release_date) - new Date(a.release_date)
   );
-  if (search) {
+
+  if (!isEmpty(search)) {
     sortedData = sortedData.filter((item) =>
-      `${item.brand_name} ${item.model} ${item.name}`
+      `${item.brand_name} ${item.model} ${item.name} ${item.nickname}`
         .toLocaleLowerCase()
         .split(' ')
         .includes(search.trim()?.toLocaleLowerCase())
