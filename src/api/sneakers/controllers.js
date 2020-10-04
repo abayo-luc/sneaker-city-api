@@ -14,7 +14,7 @@ export const getAll = (req, res) => {
 
   if (!isEmpty(search)) {
     sortedData = sortedData.filter((item) =>
-      `${item.brand_name} ${item.model} ${item.name} ${item.nickname}`
+      `${item.brand_name} ${item.model} ${item.name} ${item.nickname} ${item.designer}`
         .toLocaleLowerCase()
         .split(' ')
         .includes(search.trim()?.toLocaleLowerCase())
