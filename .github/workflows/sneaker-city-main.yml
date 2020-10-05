@@ -23,3 +23,10 @@ jobs:
       - run: npm install
       - run: npm run build --if-present
       - run: npm test
+      - name: Test & publish code coverage
+        uses: paambaati/codeclimate-action@v2.7.4
+        env:
+          CC_TEST_REPORTER_ID: 5a76e0b7b97aaab89ff58bbb3b08ca198c0074552e69fcd66dfaa08f8c663810
+        with:
+          coverageLocations: |
+            ${{github.workspace}}/coverage/lcov.info:lcov

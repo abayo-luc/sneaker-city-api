@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node ./dist",
-    "test": "jest --collect-coverage",
+    "test": "jest --collect-coverage --coverageReporters=lcov",
     "dev": "NODE_ENV=development nodemon --exec babel-node ./src",
     "clean:build": "rm -rf dist && mkdir dist",
     "build": "npm run clean:build && babel -d ./dist ./src --copy-files"
