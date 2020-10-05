@@ -25,7 +25,7 @@ npm install
 - start the development sever: `npm run dev`
 - Build production ready code: `npm run build`
 - Start production server: `npm run start`
-- Run test: `npm run tes`
+- Run test: `npm run test`
 
 ### Technologies
 
