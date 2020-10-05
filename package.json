@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node ./dist",
+    "test": "jest --collect-coverage --coverageReporters=lcov",
     "dev": "NODE_ENV=development nodemon --exec babel-node ./src",
     "clean:build": "rm -rf dist && mkdir dist",
     "build": "npm run clean:build && babel -d ./dist ./src --copy-files"
@@ -24,6 +25,8 @@
     "eslint": "^7.10.0",
     "eslint-config-prettier": "^6.12.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "nodemon": "^2.0.4"
+    "jest": "^26.4.2",
+    "nodemon": "^2.0.4",
+    "supertest": "^5.0.0"
   }
 }
