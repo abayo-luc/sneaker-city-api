@@ -1,3 +1,5 @@
+[![build](https://github.com/abayo-luc/sneaker-city-api/workflows/sneaker-city-main/badge.svg)](https://github.com/abayo-luc/sneaker-city-api/actions)
+
 # sneaker-city-api
 
 This the backend that powers Senakers City (BK Coding exercise).
