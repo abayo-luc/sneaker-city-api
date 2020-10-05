@@ -1,4 +1,4 @@
-[![Code quality](https://github.com/abayo-luc/sneaker-city-api/workflows/sneaker-city-main/badge.svg)](https://github.com/abayo-luc/sneaker-city-api/actions) [![Test Coverage](https://api.codeclimate.com/v1/badges/b052c129ac59c84ad300/test_coverage)](https://codeclimate.com/github/abayo-luc/sneaker-city-api/test_coverage) [![Maintainability](https://api.codeclimate.com/v1/badges/b052c129ac59c84ad300/maintainability)](https://codeclimate.com/github/abayo-luc/sneaker-city-api/maintainability)
+[![Code quality](https://github.com/abayo-luc/sneaker-city-api/workflows/build/badge.svg)](https://github.com/abayo-luc/sneaker-city-api/actions) [![Test Coverage](https://api.codeclimate.com/v1/badges/b052c129ac59c84ad300/test_coverage)](https://codeclimate.com/github/abayo-luc/sneaker-city-api/test_coverage) [![Maintainability](https://api.codeclimate.com/v1/badges/b052c129ac59c84ad300/maintainability)](https://codeclimate.com/github/abayo-luc/sneaker-city-api/maintainability)
 
 # sneaker-city-api
 
