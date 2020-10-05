@@ -1,4 +1,4 @@
-name: SneakerCityAPI
+name: sneaker-city-main
 
 on:
   push:
