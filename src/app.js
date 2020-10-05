@@ -9,7 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use('/api', api);
 app.use('*', (_, res) =>
-  res.json({
+  res.status(404).json({
     message: 'API endpoint not found',
   })
 );
